@@ -17,6 +17,17 @@ body a{
 	-o-transition:0.5s all;
 	-ms-transition:0.5s all;
 }
+.home-page-download-icon {
+	height: 100px;
+	margin: 0px 10px;
+	display: inline-block;
+}
+
+#button-wrapper {
+	text-align: center;
+	padding: 10px;
+	padding-top: 25px;
+}
 /*----start-container----*/
 .container{
 	width:70%;
@@ -179,7 +190,7 @@ nav a#pull {
 }
 /*---- benner ----*/
 .banner-info{
-	padding: 9em 0 12em;
+	padding: 3em 0 12em;
 }
 .banner-info h1{
 	font-weight: 700;
@@ -1400,3 +1411,4 @@ a.leran-more:hover{
 		outline:none;
 	}
 }
+
