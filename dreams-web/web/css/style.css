@@ -715,7 +715,7 @@ a.leran-more:hover{
 }
 /*---- contact ----*/
 .contact{
-	background: #111111;
+	background: #0e72be;
 	padding: 5em 0 0;
 }
 .contact-left h3{
@@ -829,7 +829,7 @@ a.leran-more:hover{
 	min-height:150px;
 }
 .contact-right input[type="submit"]{
-	background:#35C2F8;
+	background:#ff9801;
 	padding:0.9em 1.5em;
 	color:#FFF;
 	text-transform:uppercase;
@@ -843,7 +843,7 @@ a.leran-more:hover{
 	-ms-transition:0.5s all;
 }
 .contact-right input[type="submit"]:hover{
-	background:#EE2F1B;
+	background:#cacaca;
 }
 /*---- copy-right -----*/
 .copy-right p{
