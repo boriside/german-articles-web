@@ -45,8 +45,25 @@ ol.questions li {
 ul.answers {
     margin-left: 20px;
     margin-bottom: 20px;
+
+}
+/*style the quiz entries*/
+ul.answers input[type="radio"] {
+    display:none; 
 }
 
+ul.answers label {
+    display:inline-block;
+    background-color:#ddd;
+    padding:4px 11px;
+    font-family:Arial;
+    font-size:16px;
+}
+
+ul.answers input[type="radio"]:checked + label { 
+    background-color:#bbb;
+}
+/*end style*/
 ul.responses li {
     margin: 10px 20px 20px;
 }

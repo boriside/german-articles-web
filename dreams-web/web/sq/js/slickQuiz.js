@@ -215,7 +215,7 @@
                 }
 
                 // Setup questions
-                var quiz  = $('<ol class="' + questionGroupClass + '"></ol>'),
+                var quiz  = $('<ol class="' + questionGroupClass + '"  style="padding-left: 0px" "></ol>'),
                     count = 1;
 
                 // Loop through questions object
