@@ -254,7 +254,7 @@
                         }
 
                         // Now let's append the answers with checkboxes or radios depending on truth count
-                        var answerHTML = $('<ul class="' + answersClass + '"></ul>');
+                        var answerHTML = $('<ul class="' + answersClass + '" style="padding-left: 0px; margin-left: 0px;" ></ul>');
 
                         // Get the answers
                         var answers = plugin.config.randomSortAnswers ?
@@ -296,7 +296,7 @@
                         // If response messaging is NOT disabled, add it
                         if (plugin.config.perQuestionResponseMessaging || plugin.config.completionResponseMessaging) {
                             // Now let's append the correct / incorrect response messages
-                            var responseHTML = $('<ul class="' + responsesClass + '"></ul>');
+                            var responseHTML = $('<ul class="' + responsesClass + '" style="padding-left: 0px" ></ul>');
                             responseHTML.append('<li class="' + correctResponseClass + '">' + question.correct + '</li>');
                             responseHTML.append('<li class="' + incorrectResponseClass + '">' + question.incorrect + '</li>');
 
