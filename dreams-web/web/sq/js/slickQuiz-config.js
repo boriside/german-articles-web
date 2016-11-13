@@ -15,104 +15,104 @@ var quizJSON = {
     },
     "questions": [
         { // Question 1 - Multiple Choice, Single True Answer
-            "q": "german word here",
+            "q": "Kind",
             "a": [
                 {"option": "der",      "correct": false},
                 {"option": "die",     "correct": false},
                 {"option": "das",     "correct": true} // no comma here
             ],
             "correct": "<p><span>That's right!</span></p>",
-            "incorrect": "<p><span>Incorrect.</span> It's the first letter of the alphabet. Did you actually <em>go</em> to kindergarden?</p>" // no comma here
+            "incorrect": "<p><span>Incorrect.</span> das Kind </p>" // no comma here
         },
         { // Question 2 - Multiple Choice, Single True Answer
-            "q": "german word here",
+            "q": "Pfanne",
             "a": [
                 {"option": "der",      "correct": false},
-                {"option": "die",     "correct": false},
-                {"option": "das",     "correct": true} // no comma here
+                {"option": "die",     "correct": true},
+                {"option": "das",     "correct": false} // no comma here
             ],
             "correct": "<p><span>That's right!</span></p>",
-            "incorrect": "<p><span>Incorrect.</span> It's the first letter of the alphabet. Did you actually <em>go</em> to kindergarden?</p>" // no comma here
+            "incorrect": "<p><span>Incorrect.</span> die Pfanne  </p>" // no comma here
         },
         { // Question 3 - Multiple Choice, Single True Answer
-            "q": "german word here",
+            "q": "Pflaume",
             "a": [
                 {"option": "der",      "correct": false},
-                {"option": "die",     "correct": false},
-                {"option": "das",     "correct": true} // no comma here
+                {"option": "die",     "correct": true},
+                {"option": "das",     "correct": false} // no comma here
             ],
             "correct": "<p><span>That's right!</span></p>",
-            "incorrect": "<p><span>Incorrect.</span> It's the first letter of the alphabet. Did you actually <em>go</em> to kindergarden?</p>" // no comma here
+            "incorrect": "<p><span>Incorrect.</span> die Pflaume </p>" // no comma here
         },
         { // Question 4 - Multiple Choice, Single True Answer
-            "q": "german word here",
+            "q": "Boden",
             "a": [
-                {"option": "der",      "correct": false},
+                {"option": "der",      "correct": true},
                 {"option": "die",     "correct": false},
-                {"option": "das",     "correct": true} // no comma here
+                {"option": "das",     "correct": false} // no comma here
             ],
             "correct": "<p><span>That's right!</span></p>",
-            "incorrect": "<p><span>Incorrect.</span> It's the first letter of the alphabet. Did you actually <em>go</em> to kindergarden?</p>" // no comma here
+            "incorrect": "<p><span>Incorrect.</span> der Boden </p>" // no comma here
         },
         { // Question 5 - Multiple Choice, Single True Answer
-            "q": "german word here",
+            "q": "Affe",
             "a": [
-                {"option": "der",      "correct": false},
+                {"option": "der",      "correct": true},
                 {"option": "die",     "correct": false},
-                {"option": "das",     "correct": true} // no comma here
+                {"option": "das",     "correct": false} // no comma here
             ],
             "correct": "<p><span>That's right!</span></p>",
-            "incorrect": "<p><span>Incorrect.</span> It's the first letter of the alphabet. Did you actually <em>go</em> to kindergarden?</p>" // no comma here
+            "incorrect": "<p><span>Incorrect.</span> der Affe </p>" // no comma here
         },
         { // Question 6 - Multiple Choice, Single True Answer
-            "q": "german word here",
+            "q": "Papier",
             "a": [
                 {"option": "der",      "correct": false},
                 {"option": "die",     "correct": false},
                 {"option": "das",     "correct": true} // no comma here
             ],
             "correct": "<p><span>That's right!</span></p>",
-            "incorrect": "<p><span>Incorrect.</span> It's the first letter of the alphabet. Did you actually <em>go</em> to kindergarden?</p>" // no comma here
+            "incorrect": "<p><span>Incorrect.</span> das Papier </p>" // no comma here
         },
         { // Question 7 - Multiple Choice, Single True Answer
-            "q": "german word here",
+            "q": "Babysitter",
             "a": [
-                {"option": "der",      "correct": false},
+                {"option": "der",      "correct": true},
                 {"option": "die",     "correct": false},
-                {"option": "das",     "correct": true} // no comma here
+                {"option": "das",     "correct": false} // no comma here
             ],
             "correct": "<p><span>That's right!</span></p>",
-            "incorrect": "<p><span>Incorrect.</span> It's the first letter of the alphabet. Did you actually <em>go</em> to kindergarden?</p>" // no comma here
+            "incorrect": "<p><span>Incorrect.</span> der Babysitter </p>" // no comma here
         },
         { // Question 8 - Multiple Choice, Single True Answer
-            "q": "german word here",
+            "q": "Software",
             "a": [
                 {"option": "der",      "correct": false},
-                {"option": "die",     "correct": false},
-                {"option": "das",     "correct": true} // no comma here
+                {"option": "die",     "correct": true},
+                {"option": "das",     "correct": false} // no comma here
             ],
             "correct": "<p><span>That's right!</span></p>",
-            "incorrect": "<p><span>Incorrect.</span> It's the first letter of the alphabet. Did you actually <em>go</em> to kindergarden?</p>" // no comma here
+            "incorrect": "<p><span>Incorrect.</span> die Software </p>" // no comma here
         },
         { // Question 9 - Multiple Choice, Single True Answer
-            "q": "german word here",
+            "q": "Gelenk",
             "a": [
                 {"option": "der",      "correct": false},
                 {"option": "die",     "correct": false},
                 {"option": "das",     "correct": true} // no comma here
             ],
             "correct": "<p><span>That's right!</span></p>",
-            "incorrect": "<p><span>Incorrect.</span> It's the first letter of the alphabet. Did you actually <em>go</em> to kindergarden?</p>" // no comma here
+            "incorrect": "<p><span>Incorrect.</span> das Gelenk </p>" // no comma here
         },
         { // Question 10 - Multiple Choice, Single True Answer
-            "q": "german word here",
+            "q": "Käse",
             "a": [
-                {"option": "der",      "correct": false},
+                {"option": "der",      "correct": true},
                 {"option": "die",     "correct": false},
-                {"option": "das",     "correct": true} // no comma here
+                {"option": "das",     "correct": false} // no comma here
             ],
             "correct": "<p><span>That's right!</span></p>",
-            "incorrect": "<p><span>Incorrect.</span> It's the first letter of the alphabet. Did you actually <em>go</em> to kindergarden?</p>" // no comma here
+            "incorrect": "<p><span>Incorrect.</span> der Käse </p>" // no comma here
         }
 
     ]
