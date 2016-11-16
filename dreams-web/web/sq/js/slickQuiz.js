@@ -24,7 +24,7 @@
                 tryAgainText: '',
                 questionCountText: 'Question %current of %total',
                 preventUnansweredText: 'You must select at least one answer.',
-                questionTemplateText:  '%count. %text',
+                questionTemplateText:  '%text',
                 scoreTemplateText: '%score / %total',
                 nameTemplateText:  '<span>Quiz: </span>%name',
                 skipStartButton: false,
