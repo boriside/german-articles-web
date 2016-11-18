@@ -4,6 +4,22 @@
 
 .startQuiz {
     margin-top: 40px;
+    background-color: #0e72be;
+    color: white;
+    padding: 10px;
+    font-size: 200%;
+}
+.checkAnswer{
+    background-color: #0e72be;
+    color: white;
+    padding: 10px;
+    font-size: 200%;
+}
+.nextQuestion{
+    background-color: #0e72be;
+    color: white;
+    padding: 10px;
+    font-size: 200%;
 }
 
 .tryAgain {

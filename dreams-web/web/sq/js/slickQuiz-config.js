@@ -5,7 +5,7 @@
 var quizJSON = {
     "info": {
         "name":    "Test Your Knowledge!!",
-        "main":    "<p>text text text</p>",
+        "main":    "<!--<p>text text text</p>-->",
         "results": "<h5>Learn More</h5><p>Etiam scelerisque, nunc ac egestas consequat, odio nibh euismod nulla, eget auctor orci nibh vel nisi. Aliquam erat volutpat. Mauris vel neque sit amet nunc gravida congue sed sit amet purus.</p>",
         "level1":  "Jeopardy Ready",
         "level2":  "Jeopardy Contender",

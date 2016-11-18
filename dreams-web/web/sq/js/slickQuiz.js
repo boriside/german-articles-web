@@ -17,8 +17,8 @@
             _element = '#' + $element.attr('id'),
 
             defaults = {
-                checkAnswerText:  'Check My Answer!',
-                nextQuestionText: 'Next &raquo;',
+                checkAnswerText:  'CHECK',
+                nextQuestionText: 'NEXT',
                 backButtonText: '',
                 completeQuizText: '',
                 tryAgainText: '',
