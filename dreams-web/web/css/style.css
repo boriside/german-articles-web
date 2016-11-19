@@ -237,6 +237,10 @@ nav a#pull {
 /*---- services ----*/
 .services{
 	padding:3em 0;
+	background-image: url("../images/quizBlur.png");
+	background-size:     cover;                      /* <------ */
+    background-repeat:   no-repeat;
+    background-position: center center;  
 }
 .service-head h2{
 	font-weight:900;
