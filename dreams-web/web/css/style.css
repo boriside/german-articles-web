@@ -17,6 +17,24 @@ body a{
 	-o-transition:0.5s all;
 	-ms-transition:0.5s all;
 }
+
+.pulsate {
+    -webkit-animation: pulsate 3s ease-out;
+    -webkit-animation-iteration-count: infinite; 
+    opacity: 0.5;
+}
+@-webkit-keyframes pulsate {
+    0% { 
+        opacity: 0.5;
+    }
+    50% { 
+        opacity: 1.0;
+    }
+    100% { 
+        opacity: 0.5;
+    }
+}
+
 .home-page-download-icon {
 	height: 100px;
 	margin: 0px 10px;
@@ -751,7 +769,7 @@ a.leran-more:hover{
 	width: 28px;
 	height: 32px;
 	display: inline-block;
-	background: url(../images/contact-icons1.png) no-repeat 0px 0px;
+	background: url(../images/contact-icons3.png) no-repeat 0px 0px;
 	vertical-align: middle;
 	margin-right: 0.3em;
 }

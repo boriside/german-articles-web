@@ -6,7 +6,7 @@ var quizJSON = {
     "info": {
         "name":    "Test Your Knowledge!!",
         "main":    "<!--<p>text text text</p>-->",
-        "results": "<h5>Learn More</h5><p>Etiam scelerisque, nunc ac egestas consequat, odio nibh euismod nulla, eget auctor orci nibh vel nisi. Aliquam erat volutpat. Mauris vel neque sit amet nunc gravida congue sed sit amet purus.</p>",
+        "results": "<!--<h5>Learn More</h5><p>Etiam scelerisque, nunc ac egestas consequat, odio nibh euismod nulla, eget auctor orci nibh vel nisi. Aliquam erat volutpat. Mauris vel neque sit amet nunc gravida congue sed sit amet purus.</p>-->",
         "level1":  "Excellent! You realy know how to use the German Articles! Why don't you take a look to the other sections of the app?",
         "level2":  "Very good! Still, German Articles Quiz can help you in some cases and improve your productivity.",
         "level3":  "Good! But why not excellent with German Articles Quiz?",
