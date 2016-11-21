@@ -34,8 +34,8 @@ body a{
         opacity: 0.5;
     }
 }
-#borisidesman{
-	    width:170px; /* you can use % */
+#borisidesman, #dimitarmagurev{
+	width:170px; /* you can use % */
     height: auto;
 }
 
