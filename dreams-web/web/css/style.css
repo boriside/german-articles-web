@@ -23,6 +23,14 @@ body a{
     -webkit-animation-iteration-count: infinite; 
     opacity: 0.5;
 }
+#advertisment{
+	background-color: #ff9801;
+}
+
+#advertisment h3{
+	color: white;
+}
+
 @-webkit-keyframes pulsate {
     0% { 
         opacity: 0.5;
