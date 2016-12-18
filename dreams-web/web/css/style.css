@@ -868,7 +868,7 @@ a.leran-more:hover{
 	padding:0.9em 1.5em;
 	color:#FFF;
 	text-transform:uppercase;
-	border-radius:3em;
+	border-radius:0.5em;
 	border:none;
 	cursor:pointer;
 	transition:0.5s all;
